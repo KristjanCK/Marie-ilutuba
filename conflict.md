@@ -4,4 +4,4 @@
 
 3. Tudeng nr 1 loob faili conflict.md ning kirjutage sinna sisusse paar rida teksti omal valikul. Peale loomist tuleb fail ka repositooriumisse üles panna.
 
-4
+
